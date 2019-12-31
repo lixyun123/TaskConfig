@@ -3,9 +3,9 @@
 https://github.com/sazs34/TaskConfig#%E5%A4%A9%E6%B0%94
  */
 let config = {
-    darksky_api: ``, //从https://darksky.net/dev/ 上申请key填入即可
-    aqicn_api: ``, //从http://aqicn.org/data-platform/token/#/ 上申请key填入即可
-    lat_lon: "", //请填写经纬度,直接从谷歌地图中获取即可
+    darksky_api: "9b48989bfa6f727292b07f21b766fe48"
+    aqicn_api: "df04d2cb59c1607bb812ee463cd7c65d69a6cbc2"
+    lat_lon: "22.66622743105764,114.1088737082799"
     lang: 'zh', //语言,请不要修改
     uv: true, //紫外线显示,false则不显示
     apparent: true, //体感温度显示,false则不显示
